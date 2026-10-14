@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# 実行すると作られるもの
+example.pptx
+slides_png/
+_review/

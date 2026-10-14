@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="画像プレースホルダ">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dce8dc"/>
+      <stop offset="45%" stop-color="#eee7d8"/>
+      <stop offset="100%" stop-color="#e4dccb"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#g)"/>
+  <g stroke="rgba(46,91,70,.22)" fill="none" stroke-width="1.2">
+    <path d="M0 430 Q200 360 400 400 T800 370"/>
+    <path d="M0 470 Q220 410 430 445 T800 415"/>
+    <circle cx="612" cy="150" r="66"/>
+  </g>
+  <g fill="none" stroke="#2e5b46" stroke-width="4" stroke-linecap="round" opacity=".5"
+     transform="translate(400 275) scale(2.6) translate(-12 -12)">
+    <path d="M12 21V10"/>
+    <path d="M12 14c-4 0-6-2.4-6-6 4 0 6 2.4 6 6Z"/>
+    <path d="M12 12c0-3.6 2-6 6-6 0 3.6-2 6-6 6Z"/>
+  </g>
+  <text x="400" y="390" text-anchor="middle" font-size="17" letter-spacing="3"
+        font-family="'Zen Old Mincho',serif" fill="#50645b">画像を差し替えてください</text>
+</svg>
